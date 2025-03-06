@@ -27,7 +27,7 @@ This PowerShell script performs the following security tasks:
 ⚠ If you prefer to schedule the job through Task Scheduler comment out the Daily Scan Task code. Then follow the below instructions. ⚠
 
 2. Scheduling the Script to Run Every 12 Hours Using Task Scheduler
-3. 
+
 To automate the execution of this script, configure Windows Task Scheduler to run it every 12 hours.
 
 Step 1: Open Task Scheduler
